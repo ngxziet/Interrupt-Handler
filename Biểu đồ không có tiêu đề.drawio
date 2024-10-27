@@ -32,7 +32,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W5dFJXC5lNr0H4PL7f_d-13" value="Nhiệt độ vượt quá 33?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="W5dFJXC5lNr0H4PL7f_d-13" value="Nhiệt độ vượt ngưỡng?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="360" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W5dFJXC5lNr0H4PL7f_d-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W5dFJXC5lNr0H4PL7f_d-22" target="W5dFJXC5lNr0H4PL7f_d-11">
